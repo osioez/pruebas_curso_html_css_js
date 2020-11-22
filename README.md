@@ -1,2 +1,2 @@
 # pruebas_curso_html_css_js
-Ensayo de aprendizaje y formacion en htl,css y js
+Ensayo de aprendizaje y formacion en html,css y js
